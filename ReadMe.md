@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML, CSS, bootstrap, Tailwind css,**
+- 💬 Ask me about **HTML, CSS, bootstrap, Tailwind css, JavaScript**
 
 - 📫 How to reach me **pixelartificer2306@gmail.com**
 
