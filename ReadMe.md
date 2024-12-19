@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawrence Ranjan D'Cruze</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fgifs%2Fsearch%2Fcountdown%2F&psig=AOvVaw2__z4e6ijjEzc-E-EZlkB7&ust=1734717248331000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCJ__SztIoDFQAAAAAdAAAAABAi](https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimages%2Fbackgrounds-technology-gif.html&psig=AOvVaw1FwVFbTsnIN2Oi77GmsSIo&ust=1734717986853000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCr3tO2tIoDFQAAAAAdAAAAABAx)](https://lovepik.com/image-401663782/information-technology-city.html"
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fexceptrea%2Fart%2FGamer-Room-Cyberpunk-912992607&psig=AOvVaw26DNLPLTvJ1JRGhVxzRIju&ust=1734718525030000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjultS4tIoDFQAAAAAdAAAAABAJ"
         alt="">
 
 - 🌱 I’m currently learning **JavaScript**
