@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lawrence Ranjan D'Cruze</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2ZXgCs9VTr99_6rvLia8QO&ust=1734718662185000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDk05W5tIoDFQAAAAAdAAAAABAE"
-        alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2ZXgCs9VTr99_6rvLia8QO&ust=1734718662185000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDk05W5tIoDFQAAAAAdAAAAABAE">
+ <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"
+        alt="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - 🌱 I’m currently learning **JavaScript**
 
