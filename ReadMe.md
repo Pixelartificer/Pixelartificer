@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawrence Ranjan D'Cruze</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
-<iframe src="https://giphy.com/embed/ftAyb0CG1FNAIZt4SO" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-gif-expand-exponentially-ftAyb0CG1FNAIZt4SO">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ftAyb0CG1FNAIZt4SO" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 - 🌱 I’m currently learning **JavaScript**
 
