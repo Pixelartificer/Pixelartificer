@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawrence Ranjan D'Cruze</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
-<img src="https://pixabay.com/gifs/hud-sci-fi-futuristic-technology-13102/"
-            alt="https://pixabay.com/gifs/hud-sci-fi-futuristic-technology-13102/">
+ <img src="https://pixabay.com/gifs/hud-sci-fi-futuristic-technology-13102/" alt="">
 
 - 🌱 I’m currently learning **JavaScript**
 
