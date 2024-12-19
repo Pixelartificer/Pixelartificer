@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawrence Ranjan D'Cruze</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
-<iframe src="https://giphy.com/embed/ftAyb0CG1FNAIZt4SO" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="">
 
 - 🌱 I’m currently learning **JavaScript**
 
